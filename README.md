@@ -63,4 +63,4 @@ The notebook creates `data/` and `charts/` on its own.
 ## Author
 
 Bogdan, Belgrade, Serbia. Interested in data analysis, e-commerce and marketing analytics.
-[LinkedIn](https://www.linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username)
+[LinkedIn](https://www.linkedin.com/in/bogdan-konov-4844aa378) | [GitHub](https://github.com/pupachika)
